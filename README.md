@@ -64,8 +64,10 @@ abierto resultante medimos la resistencia equivalente. Anotamos el valor medido 
 
 ![image](https://user-images.githubusercontent.com/85320165/126727274-3ac91d4b-a448-4d26-b3d6-0bc303df6e9b.png)
 
+3.9.Implementamos el circuito equivalente de Thévenin, agregamos el resistor R5 y midimos la
+corriente y el voltaje en el mismo, anotamos los resultados en la tabla 5.2.
 
-
+![image](https://user-images.githubusercontent.com/85320165/126733075-45d0c2e2-0b69-4ec3-9766-a097d937b9eb.png)
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
