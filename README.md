@@ -22,6 +22,8 @@ Comprobar la teoría de superposición mediante la resolución del ejercicio y s
 
 2.MArco TEORICO
 
+![me](https://user-images.githubusercontent.com/85522189/126733266-a3494942-c876-4256-a9f9-f1dc4d49a7d7.PNG)
+
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
