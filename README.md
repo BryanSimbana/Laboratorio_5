@@ -12,17 +12,15 @@ integrantes:
 
 1.1. OBJETIVO GENERAL.
 
-Comprobar la teoría de superposición mediante la resolución del ejercicio y su respectiva simulación
+Comprobar el teorema de Thevenin mediante la resolución del ejercicio y su respectiva simulación
 
 1.2. OBJETIVOS ESPESIFICOS.
 
--Resolver el circuito eléctrico mediante el teorema de superposición 
+-Resolver el circuito eléctrico mediante el teorema de Thevenin
 
--comprobar los resultados obtenidos matemáticamente  mediante la simulación
+-comprobar los resultados obtenidos matemáticamente  mediante la simulación 
 
 2.MArco TEORICO
-
-![me](https://user-images.githubusercontent.com/85522189/126733266-a3494942-c876-4256-a9f9-f1dc4d49a7d7.PNG)
 
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
@@ -80,9 +78,9 @@ corriente y el voltaje en el mismo, anotamos los resultados en la tabla 5.2.
 
 6.CONCLUSIONES
 
--El método o teorema de superposición es de Gran utilidad para analizar circuitos que tengan dos o más Fuentes ya que al analizar puente por Puente del Análisis resulta más sencillo de realizar
+-El teorema de Thevenin es de Gran utilidad para analizar cualquier circuito complejo reduciendolo a un circuito simple.
 
--Se comprobó que los resultados obtenidos mediante el método de superposición son similares a los datos obtenidos en la simulación del circuito
+-Se comprobó que este teorema nos ayuda mucho con el analisis de circuitos que son muy dificiles a simple vista
 
 7.BIBLIOGRAFÍA 
 
