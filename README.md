@@ -49,17 +49,23 @@ https://www.tinkercad.com/things/aO1VAtRlY9u-powerful-sango-hillar/editel?sharec
 
 ![image](https://user-images.githubusercontent.com/85320165/126724397-dece593d-df43-4e6d-86a7-7ffff38f3a92.png)
 
-3.6. Procederemos a medir con ayuda de nuestro multimetro los respectivos valores de corriente electrica que tenemos en el circuito por mallas y ramas.
+3.6. Medimos el voltaje y la corriente en el resistor R5,  y anotamos los resultados en la tabla 5.2.
 
-![5](https://user-images.githubusercontent.com/85522189/125889837-cc4cb966-c101-4370-bc0a-8ebcb74a51f7.PNG)
+![image](https://user-images.githubusercontent.com/85320165/126726871-1a19970e-c1f0-47ac-9f23-94f3156cb84e.png)
 
-3.7. Para la siguiente medicion ya no sera de corriente sino ahora del voltaje VA solicitado por la practica.Medicion del voltaje VA cuando cortocircuitamos la fuente de 12 voltios en este caso su intensidad Ix = 0 porque se elimina la rama por donde pasa esa corriente.
+3.7. Desconectamos el resistor R5 y midimos el voltaje en el circuito abierto. Anotamos el valor
+medido en la tabla 5.1.
 
-![6](https://user-images.githubusercontent.com/85522189/125889898-aba14104-c142-45eb-bd59-ab3424c6b04e.PNG)
+![image](https://user-images.githubusercontent.com/85320165/126726978-6dbbb41f-9e3f-4146-a4a9-9203b45eadf0.png)
 
-3.8. Medicion del voltaje VA y corriente Ix cuando cortocircuitamos la fuente de 20 voltios en este caso su intensidad Ix si tendra valor porque no se elimina la rama por donde pasa esa corriente.
 
-![7](https://user-images.githubusercontent.com/85522189/125889984-2d3043f3-58f4-430f-b399-226f655c6da8.PNG)
+3.8.Anulamos el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante medimos la resistencia equivalente. Anotamos el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/85320165/126727274-3ac91d4b-a448-4d26-b3d6-0bc303df6e9b.png)
+
+
+
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
